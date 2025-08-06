@@ -1,5 +1,5 @@
 {% set name = "bynder-sdk" %}
-{% set version = "2.0.1" %}
+{% set version = "2.0.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/bynder-sdk-{{ version }}.tar.gz
-  sha256: 98bddbfd10873c1eea3838feb1f5258db4420c488e6f955ce6959ccb21ee1ceb
+  sha256: 586775fdb14945a6ff8096127a1f84e9bd6c506b3ea507eb2d408c6ad370d37f
 
 build:
   noarch: python
