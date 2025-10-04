@@ -3,7 +3,7 @@ About bynder-sdk-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bynder-sdk-feedstock/blob/main/LICENSE.txt)
 
-Home: https://bynder.com
+Home: https://bynder.com/
 
 Package license: MIT
 
